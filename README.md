@@ -2,8 +2,8 @@
 
 [![Release](https://img.shields.io/docker/v/jcpd/dknr-nuki?sort=semver)](https://img.shields.io/docker/v/jcpd/dknr-nuki?sort=semver)
 [![Pull](https://img.shields.io/docker/pulls/jcpd/dknr-nuki)](https://img.shields.io/docker/pulls/jcpd/dknr-nuki)
-[![Issue](https://img.shields.io/github/issues/jcdenis/dknr-nuki)](https://img.shields.io/github/issues/jcdenis/dknr-nuki)
-[![License](https://img.shields.io/github/license/jcdenis/dknr-nuki)](https://github.com/JcDenis/dknr-nuki/blob/master/LICENSE)
+[![Issue](https://img.shields.io/github/issues/dknr-domotic/dknr-nuki)](https://img.shields.io/github/issues/dknr-domotic/dknr-nuki)
+[![License](https://img.shields.io/github/license/dknr-domotic/dknr-nuki)](https://github.com/dknr-domotic/dknr-nuki/blob/master/LICENSE)
 
 
 ## A propos
@@ -89,15 +89,15 @@ Seules les entités réellement fournies par l'appareil sont publiées.
 
 ## Contribuer
 
-Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/JcDenis/dknr-nuki/issues) ou en proposant de [requêtes](https://github.com/JcDenis/dknr-nuki/pulls) sur le dépôt github du projet.
+Ce projet est **open-source**, vous pouvez participer en créant des [tickets](https://github.com/dknr-domotic/dknr-nuki/issues) ou en proposant de [requêtes](https://github.com/dknr-domotic/dknr-nuki/pulls) sur le dépôt github du projet.
 
 
 ## Voir aussi
 
-- [DKNR Teleinfo](https://github.com/JcDenis/dknr-teleinfo)
-- [DKNR APSystems](https://github.com/JcDenis/dknr-apsystems)
-- [DKNR Daikin](https://github.com/JcDenis/dknr-daikin)
-- [DKNR Zendure](https://github.com/JcDenis/dknr-zendure)
-- [DKNR RFXCom](https://github.com/JcDenis/dknr-rfxcom)
+- [DKNR Teleinfo](https://github.com/dknr-domotic/dknr-teleinfo)
+- [DKNR APSystems](https://github.com/dknr-domotic/dknr-apsystems)
+- [DKNR Daikin](https://github.com/dknr-domotic/dknr-daikin)
+- [DKNR Zendure](https://github.com/dknr-domotic/dknr-zendure)
+- [DKNR RFXCom](https://github.com/dknr-domotic/dknr-rfxcom)
 - [Nuki Bridge HTTP API](https://developer.nuki.io/t/bridge-http-api/26)
 - [Nuki MQTT API](https://developer.nuki.io/t/mqtt-api-specification-v1-3/17626)
