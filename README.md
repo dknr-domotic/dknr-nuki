@@ -10,6 +10,8 @@
 
 **dknr-nuki** est un projet consacré au pilotage, à la récupération et à l'exploitation des données des appareils Nuki en local. Ce projet n'utilise pas le cloud Nuki (Nuki Web) mais attaque directement l'API HTTP des bridges Nuki et, en option, l'API MQTT native des Smart Lock récentes.
 
+La documentation détaillée est sur [dknr-domotic.github.io](https://dknr-domotic.github.io/sources/nuki/).
+
 Toutes les informations sont regroupées sur votre serveur MQTT, dans la même arborescence que les autres projets DKNR.
 
 
